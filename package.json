@@ -1,0 +1,26 @@
+{
+  "name": "hexo-renderer-hbs",
+  "version": "0.1.0",
+  "description": "Handlebars renderer for Hexo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2fd/hexo-renderer-hbs"
+  },
+  "keywords": [
+    "Hexo",
+    "Handlebars",
+    "renderer"
+  ],
+  "author": "Fede Ramirez <i@2fd.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2fd/hexo-renderer-hbs/issues"
+  },
+  "dependencies": {
+    "handlebars": "~2.0.0"
+  }
+}
